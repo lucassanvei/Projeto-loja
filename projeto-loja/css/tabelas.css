@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 40px;
+    background-color: black;
+    color: aliceblue;
+}
+
+h1 {
+    color: darkorchid;
+}
+
+table {
+    width: 50%;
+    background-color: rgb(72, 94, 190);
+    box-shadow: 0 4px 6px rgba(0, 0, 0 , 0.10);
+}
+
+th,
+td {
+
+    padding: 12px 15px;
+    text-align: left;
+    border-bottom: 1px solid white;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+th{
+    background-color: aqua;
+    color: blue;
+    font-size: 14px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
